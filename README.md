@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FakeHaxOvO
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript und Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  
